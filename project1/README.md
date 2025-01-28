@@ -1,22 +1,22 @@
 ## Project #1 brief: Blog Backend
 The application serves as a resource to further communication avenues for users. Similar to a blog from the 90's, users will be able to create accounts, log in , create and edit their posts, and view their post history from the database. Admin will have the added authority of being able to view all user content.
 
-###Problem Statement:
+## Problem Statement:
 Users would like to securely sign into their social platforms.
 
-###Importance of Solving the Problem Now:
+## Importance of Solving the Problem Now:
 User data is a protected resource and exposure opens them up to unnecessary risk.
 
-###Opportunity:
+## Opportunity:
 Giving users a secured way to sign in protects not only their content, but their data and associated accounts as well.
 
-###Target Audience:
+## Target Audience:
 People that like to take notes and records to record the days actions.
 
-###Definition of Done:
+## Definition of Done:
 A backend that allows a user to sign up, log in, create / edit content, and hand has admin functionality.
 
-###Success Metrics / OKRs:
+## Success Metrics / OKRs:
 Users can complete blog actions to create and view content
 Admin can has specific permissions
 Secrets are hashed in the database
