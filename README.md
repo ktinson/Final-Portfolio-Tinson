@@ -8,7 +8,7 @@ This repository is a collection of some of my key learnings during my 2024 - 202
 - **Link to Portfolio Website**:
 
 ## Portfolio Introduction
-- Monikai Tinson
+- M Tinson
 - Developer
 - Interested in development
 - Development
