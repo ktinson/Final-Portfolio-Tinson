@@ -1,27 +1,59 @@
-## Project #1
-Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+## Project #1 brief: Blog Backend
+The application serves as a resource to further communication avenues for users. Similar to a blog from the 90's, users will be able to create accounts, log in , create and edit their posts, and view their post history from the database. Admin will have the added authority of being able to view all user content.
+#Problem Statement:
+Users would like to securely sign into their social platforms.
+Importance of Solving the Problem Now:
+User data is a protected resource and exposure opens them up to unnecessary risk.
+#Opportunity:
+Giving users a secured way to sign in protects not only their content, but their data and associated accounts as well.
+Target Audience:
+People that like to take notes and records to record the days actions.
+#Definition of Done:
+A backend that allows a user to sign up, log in, create / edit content, and hand has admin functionality.
+#Success Metrics / OKRs:
+Users can complete blog actions to create and view content
+Admin can has specific permissions
+Secrets are hashed in the database
+
+# KTinson_Backend_Project
+Repository for all the code created for the backend module
+
+Backend Project: Entropy
+[User stories and Wireframes](https://miro.com/app/board/uXjVL5aysrQ=/?share_link_id=578163164239) 
+
+frontend https://localhost:3000  
+
+backend https://localhost:8080  
+
+presentation 
+[Google Slides](https://docs.google.com/presentation/d/11zc-pV-Qq_ZTc5r-F0TAKt_J88bGjzbqtRQAmq8KiAs/edit?usp=sharing)
+
+----The directory for the main project is kTinson/
+
+
+## Start Application
+From the root directory, run mvn install -U -DskipTests, mvn build
+Once the the backend is running, CD into kTinson/frontend and run npm install & npm start commands
+
+
+The backend server is run on PORT 8080.
+
+The current database will not be accessible you can add your own db connection to the application properties or create a .env file, to move forward you can change the database to your database in src/main/resources or to the database of your choice.
+
+![image](https://github.com/user-attachments/assets/b95b586a-3bb7-402f-a4e4-aaabccac26c8)
+
+![image](https://github.com/user-attachments/assets/9195377d-44f6-405e-91ef-e67e3a206835)
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+Javascript, Java, Postgres, AWS, HTML, CSS
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
-
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 3.2, 4.1, 4.2, 4.4, 5.4, 5.8, 5.8, 6.4
+- DEVELOPER 
+- Creating a functioning Backend and frontend
+- Creating the AWS POstgres instance to connect to the backend Backend and display data on the Frontend
+- Use Miro board to design and track project progress
+- Created a presentation to communicate project ideas to stakeholders
+- A successful application was created
+- Byrcrypted passwords within DB to safegaurd user credentials
+  
