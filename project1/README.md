@@ -62,4 +62,17 @@ Javascript, Java, Postgres, AWS, HTML, CSS
 - Created a presentation to communicate project ideas to stakeholders
 - A successful application was created
 - Byrcrypted passwords within DB to safegaurd user credentials
+![Screenshot 2025-01-21 111017](https://github.com/user-attachments/assets/52146f50-2e79-4d2c-8875-f4a18c00f740)
+![image](https://github.com/user-attachments/assets/514603d0-f079-42e0-aee8-07310c526f98)
+<img width="526" alt="2BackendProj" src="https://github.com/user-attachments/assets/8dd1ed71-b674-4726-b9c9-2f49b609b208" />
+![Screenshot 2025-01-21 114140](https://github.com/user-attachments/assets/1c30de05-f794-497b-bd19-dce7ffa56346)
+<img width="266" alt="3BackendProj" src="https://github.com/user-attachments/assets/22cc05b4-fcd6-467e-b24e-ef6043d095d5" />
+<img width="815" alt="4BackendProj" src="https://github.com/user-attachments/assets/018186dd-b135-439c-8f2f-dbd00ee0507b" />
+![Screenshot 2025-01-21 112200](https://github.com/user-attachments/assets/d47c4622-b785-487e-803a-9171772a0b81)
+![Screenshot 2025-01-21 135325](https://github.com/user-attachments/assets/01ca13d8-588c-4c28-82c7-fc6d9397f7d5)
+![Screenshot 2025-01-21 120957](https://github.com/user-attachments/assets/9d1a0e22-03fc-49cc-a5a9-78eeb3258f8a)
+<img width="578" alt="1BackendProj" src="https://github.com/user-attachments/assets/c6e9e1d4-b9a2-4ee9-8a23-60b77aaeb967" />
+<img width="632" alt="5BackendProj" src="https://github.com/user-attachments/assets/ded4eaf0-8267-4a36-9894-07607e3fa169" />
+
+  
   
